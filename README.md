@@ -1,1 +1,1 @@
-Se crearon las tabla para usar las opciones insert. delete, select # SQL
+Se crearon las tabla para usar las opciones create, insert, delete, select # SQL
